@@ -3,8 +3,8 @@
 
 **The assignment will test your ability to:**
 Implement a simple design (from Figma) using HTML & CSS. (login with a free Figma account to be able to inspect the design)
-Do simple DOM manipulation with RECT (creating, inserting, deleting elements, event listeners, etc.).
-Manipulate data structures with RECT.
+Do simple DOM manipulation with REACT (creating, inserting, deleting elements, event listeners, etc.).
+Manipulate data structures with REACT.
 Write asynchronous JavaScript.
 Make requests to an API. 
 
